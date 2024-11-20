@@ -7,4 +7,5 @@
 ---
 
 - Imagem de exemplo:
+
 ![Exemplo de Utilização](image.png)
