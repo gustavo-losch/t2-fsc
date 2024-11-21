@@ -4,6 +4,8 @@
 
 2. O programa deverá permitir a definição do número de elementos do vetor de dados, os elementos deste vetor, o número de elementos do vetor de dados que representa o padrão e os elementos deste último vetor. Estes valores serão informados pelo usuário via teclado através do uso da primitiva syscall. Como saída, deve-se informar a quantidade de padrões encontrados em vetorDados. Esta informação deverá ser informada na console utilizando a primitiva syscall
 
+[Link do Tldraw](https://www.tldraw.com/r/wtgT2kYCl3aEKA4v79Odu?d=v-1109.-329.3370.1638.page)
+
 ---
 
 - Imagem de exemplo:
