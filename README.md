@@ -8,4 +8,6 @@
 
 - Imagem de exemplo:
 
-![Exemplo de Utilização](image.png)
+![Exemplo de Utilização](img/image.png)
+
+![Exemplo de Utilização](img/diagrama.png)
