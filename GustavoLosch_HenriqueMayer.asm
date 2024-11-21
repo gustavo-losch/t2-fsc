@@ -67,7 +67,7 @@ preenche_vetorPadrao_loop:
     add $t7, $t7, $t6              # Adiciona deslocamento
     sw $v0, 0($t7)                 # Armazena valor em vetorPadrao[j]
 
-    addi $t5, $t5, 1               # j++
+    addi $t5, $t5, 1               # Incrementa o índice do vetorPadrão e pula para o início do loop
     j preenche_vetorPadrao_loop
 
     # Busca por padrões em vetorDados
